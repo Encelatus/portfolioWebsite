@@ -1,0 +1,46 @@
+let movieList = `[{
+    "movieName": "Market Catch",
+    "image": "img/Market_Catch.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "The Moments",
+    "image": "img/The_Moments.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "The Australian Falting",
+    "image": "img/The Australian_Falting.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "Hollywood Home",
+    "image": "img/Hollywood_Home.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "American Bares",
+    "image": "img/American_Bares.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "Hang the Pursuit",
+    "image": "img/Hang_the_pursuit.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "Dogish, a Night for the Darkest",
+    "image": "img/Dogish.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "The Real Land",
+    "image": "img/Real_Land.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+},{
+    "movieName": "My Show",
+    "image": "img/My_Show.png",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae harum natus a vero inventore assumenda sunt! Quam esse, eum totam corrupti quo, facilis illo unde, officia voluptatibus tenetur natus. Maxime?",
+    "likes": 0
+}]`
